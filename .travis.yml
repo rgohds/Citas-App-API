@@ -2,6 +2,3 @@ language: java
 jdk:
   - openjdk17
 script: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-notifications:
-email: rlgarza@gmail.com
-  
