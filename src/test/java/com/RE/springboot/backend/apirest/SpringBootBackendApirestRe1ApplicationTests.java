@@ -26,10 +26,10 @@ class SpringBootBackendApirestRe1ApplicationTests {
 		mockMvc.perform(get("/api/instructores")).andExpect(status().isOk());
 	}
 
-	/*
+	
 	@Test
 	void contextLoads2() throws Exception {
 		mockMvc.perform(get("/api/instructores2")).andExpect(status().isOk());
-	}*/
+	}
 
 }
