@@ -57,8 +57,7 @@ Para el caso de la solución de parte del backend, los requerimientos:
 
 ## Instalación
 
-Se debe proceder a realizar la instalación de angular [guía angular](https://angular.io/guide/setup-local)
-
+Se debe proceder a realizar la instalación de angular [guía oficial angular](https://angular.io/guide/setup-local)
 Esto se debe realizar en línea de comando en windows o power shell:
 - npm install -g typescript
 - npm install -g @angular/cli
