@@ -25,7 +25,7 @@ La solución ha sido dividida en 2, una enfocada en el front end (web) [CitasApp
 
 ## Tabla de Contenidos
 
-- [Requerimientos](https://github.com/rgohds/Citas-App-API/edit/develop/README.md#requerimientos-1)
+- [Requerimientos](https://github.com/rgohds/Citas-App-API/blob/develop/README.md#requerimientos)
 - Instalación
 - Configuración
 - Uso
