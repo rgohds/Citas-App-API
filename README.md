@@ -41,6 +41,7 @@ Los requerimientos de software para la aplicación web (angular):
 
 - Node.js, que puede ser descargado en https://nodejs.org/en/download/current, para el momento de esta publicación se empleo la versión 21.7.3, en esta versión, este software se requiere para la instalación del NPM (node package management), para poder realizar las intalaciones subsecuentes.
 - Angular (npm install -g typescript)
+- PrimeNG [Guía oficial](https://primeng.org/installation)
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - en ese sentido se recomiendan los siguientes plug in:
   -   [Angular Snippets (versión 16)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
