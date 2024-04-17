@@ -35,7 +35,33 @@ La solución ha sido dividida en 2, una enfocada en el front end (web) [CitasApp
 
 ## Requerimientos
 
+La solución se dividio en 2 secciones, como se describe en la descripción de la arquitectura.
+
+Los requerimientos de software para la aplicación web (angular):
+
+- Node.js, que puede ser descargado en https://nodejs.org/en/download/current, para el momento de esta publicación se empleo la versión 21.7.3, en esta versión, este software se requiere para la instalación del NPM (node package management), para poder realizar las intalaciones subsecuentes.
+- Angular (npm install -g typescript)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+  - en ese sentido se recomiendan los siguientes plug in:
+  -   [Angular Snippets (versión 16)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+  -   [Angular 17 Snippets (versión 17)](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+
+Para el caso de la solución de parte del backend, los requerimientos:
+- JDK (Java SE Development Kit) [versión 17](https://www.oracle.com/java/technologies/downloads/#java17)
+- [IDE Eclipse for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/)
+      ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/784c234b-e5a1-4f68-81c2-b794a95e258b)
+- Spring Tools desde el marketplace eclipse
+- Sql Server 2019, de forma local o servicios de nube.
+
+
 ## Instalación
+
+Se debe proceder a realizar la instalación de angular [guía angular](https://angular.io/guide/setup-local)
+
+Esto se debe realizar en línea de comando en windows o power shell:
+- npm install -g typescript
+- npm install -g @angular/cli
+- 
 
 ## Configuración
 
