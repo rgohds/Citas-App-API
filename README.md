@@ -281,7 +281,8 @@ En PowerShell cambie al directorio de la aplicacion y ejecute el comando ng serv
 
 Tras la ejecucion se abrira un browser presentando una pantalla similar a la siguiente:
 
-<img width="1049" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/1d0bf267-bf24-486f-b441-71cdd1990388">
+<img width="1049" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/2410a830-b535-4090-a4d9-ad19f4430c2f">
+
 
 
 Como realizar pruebas:
