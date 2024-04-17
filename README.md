@@ -106,7 +106,70 @@ al finalizar se observara similara a la siguiente:
 
 <img width="315" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/d6e5154b-cbaa-4c04-919e-f749fd9b80ed">
 
-Posteriormente Visual Studio Code
+Posteriormente [Visual Studio Code](https://code.visualstudio.com/download)
+
+<img width="778" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/f6448a0d-2216-4994-86c1-30fbedc22701">
+
+Al ejecutar el instalador, acepte la licencia:
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/388571a4-a153-49e1-ab50-502ef50fa818">
+
+confirme el directorio de instalacion:
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/a5859e4d-85ec-48c3-827b-f48cf2e7a46f">
+
+Continue:
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/ab3b0f41-e67b-4118-b5ac-d63e8ca3af1a">
+
+Continue:
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/d327f4a2-06d8-43d3-a9f0-bd054ce5bf30">
+
+Confirme para proceder a la instalacion:
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/7afeff7a-10d1-47c2-b31a-25626a12cb6d">
+
+Al finalizar se visualizara una pantalla similara a la siguiente: 
+
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/a97d216f-d3d9-47bf-b49f-98ef912cb1cf">
+
+Posteriormente los snippets de visual studio code:
+
+<img width="626" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/d77954a3-9e34-4ce3-bd9a-ca7bda0fef54">
+
+y proceda a la instalacion:
+
+<img width="666" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/c88537ce-8424-420f-aaef-5f927947f970">
+
+de forma similar instale el siguiente snippet:
+
+<img width="728" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/fcf930d2-543c-4ff7-8f50-d9f42936647d">
+
+
+Instalacon de JDK 17:
+
+seleccione el instalador:
+<img width="998" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/ac1fa5b6-e05c-4793-b261-5c60e5b54def">
+
+Seleccione "Next":
+
+<img width="392" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/b7314bbb-e63b-4fcc-b168-a50f8339d82b">
+
+Nuevamente seleccione "Next" o ajuste el directorio de instalacion:
+
+<img width="392" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/09b962a8-1a6b-4f6a-86c5-b841a1465b44">
+
+Al concluir se mostrara una pantalla similar a la siguiente:
+
+<img width="392" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/8eb7d74e-f7ef-4694-a33e-a87f20268ccc">
+
+Instalacion de Eclipse:
+
+Proceda a descargarlo:
+
+<img width="397" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/b0b57221-f65d-4a9a-a8a1-956214bab24e">
+
 
 
 ## Configuración
