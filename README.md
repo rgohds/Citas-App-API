@@ -40,7 +40,7 @@ La solución se dividio en 2 secciones, como se describe en la descripción de l
 Los requerimientos de software para la aplicación web (angular):
 
 - Node.js, que puede ser descargado en https://nodejs.org/en/download/current, para el momento de esta publicación se empleo la versión 21.7.3, en esta versión, este software se requiere para la instalación del NPM (node package management), para poder realizar las intalaciones subsecuentes.
-- Angular (npm install -g typescript)
+- Angular 
 - PrimeNG [Guía oficial](https://primeng.org/installation)
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - en ese sentido se recomiendan los siguientes plug in:
@@ -97,6 +97,16 @@ Esto se debe realizar en línea de comando en windows o power shell:
 Al concluir se visualizara similar a la siguiente:
 
 <img width="385" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/525597e6-15a9-403e-96fc-8d9b54a755dd">
+
+Posteriormente procederemos a la instalacion de PrimeNG, de forma similar empleando power shell
+
+npm install primeng
+
+al finalizar se observara similara a la siguiente:
+
+<img width="315" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/d6e5154b-cbaa-4c04-919e-f749fd9b80ed">
+
+Posteriormente Visual Studio Code
 
 
 ## Configuración
