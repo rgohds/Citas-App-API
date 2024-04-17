@@ -267,6 +267,22 @@ podra observar en la consola, la ejecucion:
 
 <img width="998" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/32458571-ce4b-4a58-8ed3-ccd2bf28c452">
 
+Para el proyecto del front end de angular, de forma similar introduzca los datos del repositorio y el directorio destino:
+
+<img width="962" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/be93754e-0ddc-42ee-8f04-bc5956aff1bb">
+
+GitHub desktop presentara una pantalla similar a la siguiente:
+
+<img width="962" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/175c5406-1f10-4183-97d5-81ea4d089339">
+
+En PowerShell cambie al directorio de la aplicacion y ejecute el comando ng serve -o, de forma similar:
+
+<img width="1033" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/e731dc6e-895b-4e5e-8277-b99678c01f68">
+
+Tras la ejecucion se abrira un browser presentando una pantalla similar a la siguiente:
+
+<img width="1049" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/1d0bf267-bf24-486f-b441-71cdd1990388">
+
 
 Como realizar pruebas:
 
