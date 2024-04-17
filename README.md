@@ -170,12 +170,72 @@ Proceda a descargarlo:
 
 <img width="397" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/b0b57221-f65d-4a9a-a8a1-956214bab24e">
 
+una vez descargado descomprima el .zip (eclipse no requiere instalacion) en un directorio donde se descomprimira el software:
+
+<img width="664" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/43c01504-a847-41df-b774-11b690b62fe1">
+
+de una forma similar a la siguiente:
+
+<img width="559" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/648cb404-1ffd-474b-8d83-0f9330e4bad7">
+
+proceda a ejecutar eclipse:
+
+<img width="572" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/fdba55d5-bf41-4a98-a05f-75e6147b941e">
+
+proceda a seleccionar la ubicacion del workspace y puede marcar la opcion para que no vuelva a ser solicitado, en mi caso la he cambiado:
+
+<img width="428" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/5d6dbe2e-2e61-4e6f-8edc-6ebb543a25d8">
+
+En la primera ejecucion se presentara una pantalla similar a la siguiente, donde podra seleccionar si desea excluir a eclipse del scan de windows defender:
+
+<img width="500" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/a8342381-de22-451d-8f08-9b123c140ddd">
+
+Spring Boot:
+
+Para la instalacion de Spring Boot, seleccione del menu Help la opcion de Eclipse Marketplace:
+
+<img width="531" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/1778d7b4-f0d0-4305-af28-88dd44292f66">
+
+procedemos a buscar con la palabra "Spring" y seleccionamos la version 4:
+
+<img width="428" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/ae8d3af8-fe2a-4fa3-89d6-d14f781b801b">
+
+marcamos todas las opciones y confirmamos:
+
+<img width="428" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/30a885b0-f4ae-4acc-88fc-519549b9be2f">
+
+Debemos aceptar los terminos:
+
+<img width="581" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/f1710a55-abba-4b13-85c0-45bf41d3d9ff">
+
+Seleccionamos todos en los certificados:
+
+<img width="635" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/1488abb2-6f9a-4cd4-b665-e9de1df2cb29">
+
+De forma similar:
+
+<img width="635" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/e0f01ed3-d475-4722-ab06-debc91b83228">
+
+Al final del proceso se solicitara reiniciar el entorno de Eclipse:
+
+<img width="405" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/5df413b8-8201-499f-8ed1-280e74adfe7e">
+
+
+
 
 
 Sql Server 2019
 
-Tras crear la base de datos en SQL Server, es necesario crear la tabla tblinstructor, el script para este fin se encuentra :
+Tras crear la base de datos en SQL Server y crear el dbo de la base de datos, es necesario crear la tabla tblinstructor, el script para este fin se encuentra :
 https://github.com/rgohds/Citas-App-API/wiki/Sql-Server-Script-%E2%80%90-tblInstructor
+
+[GitHub Desktop](https://desktop.github.com/)
+
+Proceda a descargarlo:
+<img width="754" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/156f468e-b87b-4205-92b5-c5a5b4e14328">
+
+
+
 
 
 Para realizar una prueba de forma manual con el API Rest, solo es necesario ejecutar la aplicación:
