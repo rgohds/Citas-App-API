@@ -232,11 +232,43 @@ https://github.com/rgohds/Citas-App-API/wiki/Sql-Server-Script-%E2%80%90-tblInst
 [GitHub Desktop](https://desktop.github.com/)
 
 Proceda a descargarlo:
+
 <img width="754" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/156f468e-b87b-4205-92b5-c5a5b4e14328">
 
+Para realizar la descarga de las aplicaciones, ejecute GitHub Desktop:
+
+<img width="725" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/2ae1554f-6489-4bc5-b5bb-5df04878e946">
+
+seleccione la opcion de clonar un repositorio desde internet:
+
+<img width="725" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/32bde9eb-af76-4d11-b7dc-1aff1afc0dc3">
+
+seleccione el repositorio de Citas-App-API y ajuste el path donde sera generado el repositorio, cambiando el nombre a spring-boot-backend-apirest-RE-1:
+
+<img width="959" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/14a47f5c-305b-4c1e-b80e-94b940a3465e">
+
+en el caso de repositorio de terceros, introduzca el URL https://github.com/rgohds/Citas-App-API.git y cambie el nombre a spring-boot-backend-apirest-RE-1:
+
+<img width="962" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/d4fc8ef3-a28f-4375-90e6-f4df48116798">
+
+Posteriormente en eclipse abra el proyecto:
+
+<img width="1004" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/64143331-0345-4d24-85db-f50f0cde9227">
+
+selecionando el path del mismo:
+
+<img width="483" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/a8d9d883-08e6-47f9-8c13-477989bbc6f6">
+
+y posteriormente proceda a ejecutarlo seleccionando la ejecucion como una spring boot app:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/f0e15d12-d4b0-47c8-81ca-8afb6466a1ea)
+
+podra observar en la consola, la ejecucion:
+
+<img width="998" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/32458571-ce4b-4a58-8ed3-ccd2bf28c452">
 
 
-
+Como realizar pruebas:
 
 Para realizar una prueba de forma manual con el API Rest, solo es necesario ejecutar la aplicación:
 
