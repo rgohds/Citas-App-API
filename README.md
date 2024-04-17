@@ -171,6 +171,24 @@ Proceda a descargarlo:
 <img width="397" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/b0b57221-f65d-4a9a-a8a1-956214bab24e">
 
 
+Para realizar una prueba de forma manual con el API Rest, solo es necesario ejecutar la aplicación:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/538cf1b3-4fbb-4231-91a9-ccaad58a0d2a)
+
+y realizar una consulta directamente en el navegador como chrome de forma similar a la siguiente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/c6349b4e-f612-4d1c-a70f-cd5faca9568e)
+
+o empleando postman, ej: http://localhost:8080/api/instructores
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/c1958e9f-de23-4c64-bfce-05c19721f6eb)
+
+o similar a este segundo ejemplo donde se consulta el id 1:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/3b4ebda6-ebc5-4b7b-ad71-8b6fc7b9fb47)
+
+
+
 
 ## Configuración
 
