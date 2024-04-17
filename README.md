@@ -57,12 +57,47 @@ Para el caso de la solución de parte del backend, los requerimientos:
 
 ## Instalación
 
-Se debe proceder a realizar la instalación de angular [guía oficial angular](https://angular.io/guide/setup-local).
+Como primer paso se debe instalar [NodeJS](https://nodejs.org/en/download/current)
+
+Similar a la siguiente:
+
+<img width="602" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/6e88fd08-bc24-46c2-9d87-c6d9200e8612">
+
+Ejecute el programa descartado para proceder a instalar:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/36348aec-1e29-4433-9b59-305992143fa3">
+
+Acepte el acuerdo de licencia:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/93676312-5732-4d8d-9f45-078124bc1a4b">
+
+Confirme el directorio de instalacion:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/0b17f04a-d29d-466d-85c5-6ccd792eb60a">
+
+Sin realizar cambios en los componentes:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/373c5345-f2b8-414f-b7e0-9b4fe165ac5c">
+
+Seleccione la instalacion:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/a876780b-40b9-4568-af10-88098424abf1">
+
+Al finalizar se desplegara una pantalla similar a la siguiente:
+
+<img width="387" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/e311ce07-c383-49a4-b08f-f27be6efb327">
+
+Posteriormente procederemos a instalación de angular [guía oficial angular](https://angular.io/guide/setup-local).
 
 Esto se debe realizar en línea de comando en windows o power shell:
-- npm install -g typescript
 - npm install -g @angular/cli
-- 
+  
+<img width="449" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/6940678f-c5a6-4b83-94eb-539f777c17d0">
+
+Al concluir se visualizara similar a la siguiente:
+
+<img width="385" alt="image" src="https://github.com/rgohds/Citas-App-API/assets/127057257/525597e6-15a9-403e-96fc-8d9b54a755dd">
+
 
 ## Configuración
 
