@@ -174,6 +174,19 @@ Proceda a descargarlo:
 
 ## Configuración
 
+Para el caso del API Rest, es necesario ajustar los parametros de conectividad directamente en el application.properties, dentro del roadmap se espera cambiar la ubicación de estos datos:
+
+spring.datasource.url = para establecer la conexión a la base de datos, en la actualidad apunta a un servidor en nube
+spring.datasource.username = con el usuario dbo de la BD
+spring.datasource.password = pwd del usuario dbo
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/51cb1fce-71ef-4cef-963d-b63b28e58e65)
+
+Para el caso de la aplicación web, dependiendo de la entidad, por el momento se debe modificar la ubicación del API Rest, en el siguiente ejemplo se encuentra fijo su ejecución de forma local en el puerto 8080, de forma similar en el roadmap se espera ajustar posteriormente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/3a7bbb9f-9803-41f2-a643-3b944fc51acb)
+
+
 ## Uso
 
 ## Contribución
