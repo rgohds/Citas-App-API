@@ -482,6 +482,80 @@ al concluir, github te dara la opción de borrar el branch :
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/355b1503-7df8-48de-b62a-040317502011)
 
 
-
-
 ##  Roadmap
+
+Algunas de las oportunidades o funcionalidades que se podrían mejorar hasta ahora:
+
+**Borrado y carga de datos masivos**
+
+El template de primeng contempla funcionalidad para realizar el borrado de registros multiples, así como poder importar datos de un archivo:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/fba0e163-0f94-4f49-b7c8-27798399b414)
+
+**Los datos de conexión o uso de api rest en archivo de configuración**
+
+En el estatus actual los parametros de conexion se encuentran incluidos en los archivos del application properties o fijos en el codigo invocando los API Rest, es necesario regresar a estos desarrollos para ajustarlos y darles la dualidad para poder trabajar posiblemente en 3 ambientes, desarrollo, calidad y productivo.
+
+**Landing Page**
+
+Esto lo considero un requerimiento funcional que debería ser incluido al revalidar el backlog, en esta pagina de inicio, normalmente se pueden observar información previo al registro de usuarios o login, ejemplo:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/bc403612-0f45-478f-a77d-7af339d6b5fc)
+
+Adicionalmente el MVP o levantamiento inicial contempla los siguientes requerimientos funcionales:
+
+**Alta de Clases**
+
+El administrador debe tener cierta funcionalidad para poder dar de alta las clases diferentes datos maestros, en este caso los instructores disponibles para posteriormente asignar a las clases disponibles.
+
+**Alta de disponibilidad de clases**
+
+El administrador debe tener cierta funcionalidad para asignar días de la semana, así como horarios, relacionar la clase y el instructor asignado
+
+**Confirmación de Pagos**
+
+El administrador requiere confirmar aquellas compras realizadas por los clientes de forma manual (confirmación de transferencia), para posteriormente confirmar la recepción del pago y habilitarle al usuario la cantidad de clases asociadas al paquete.
+
+**Cancelación de Clase**
+
+El administrador requiere cancelar una clase o un cliente a solicitado cancelar la asistencia a una clase especifica (fecha, horario)
+
+**Días inhábiles**
+
+El administrador requiere poder establecer los días inhábiles, de tal forma que dichos días no sean considerados en las fechas disponibles para poder agendar clases.
+
+**Cliente – Auto registro**
+
+Un cliente nuevo debe tener la facilidad de poder realizar su autoregistro de forma autónoma.
+
+**Cliente – Login**
+
+Un cliente previamente registrado desea entrar a la plataforma empleando sus datos de correo y password previamente registrados.
+
+**Cliente – Compra Paquetes**
+
+Un cliente previamente registrado desea realizar la compra de paquetes de clases
+
+**Cliente – Agenda Clases**
+
+Un cliente previamente ha comprado un paquete de clases y desea agendar una clase a tomar.
+
+**Cliente – Visualiza próximas Clases**
+
+Un cliente previamente ha agendado una clase y desea recordar en que fecha y horario la realizo, esta funcionalidad le permite ver las clases subsecuentes.
+
+**Cliente – Cancelación de Clase**
+
+Un cliente previamente ha agendado una clase y desea cancelar su asistencia en una determinada fecha y horario.
+
+**Cliente – Historial de Compras**
+
+Un cliente previamente ha realizado compra de algún paquete y desea visualizar dicha información, así como las clases en las que fue consumido/tomado
+
+
+
+
+
+
+
+
