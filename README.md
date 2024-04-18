@@ -327,10 +327,69 @@ Como usuario por el momento entraras de forma local, vía el navegador como chro
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/7551b0d6-3517-42b7-a957-12daa0fb894a)
 
 
-
-
 ## Contribución
 
-## Roadmap
+Para realizar contribuciones la forma de trabajo es la siguiente, realizar la creación de un nuevo Branch.
+Lo puedes realizar desde eclipse, seleccionando desde la raíz del proyecto y la opción de equipo, en la opción de Switch to->New Branch
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/00e73c35-ad09-4ffa-96bf-d850996e84d0)
+
+Para posteriormente introducir el nombre del Branch, buscando identificar el objetivo, en este ejemplo estamos modificando el API Rest, agregando los metodos CRUD sobre la entidad Instructores:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/992a096d-ed5f-4438-a747-b3906f2c7e76)
+
+Una vez concluidos los cambios, de forma similar ahora seleccione la opción de commit:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/0124a0f9-d350-4989-81f6-80abaa0265b0)
+
+Lo cual presentará en la parte baja los archivos modificados y podrá introductir los comentarios de dicho commit, para posteriormente seleccionar la opción Commit and Push:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/0bc251f6-59ee-48ad-a829-e44daf16d4e6)
+
+Eclipse solicitar los datos de acceso a github:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/5d1ab35c-7985-4e04-8884-a112f87b0f20)
+
+En caso de que Eclipse no acepte las credenciales, tendrá que generar un token de la siguiente forma:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/b8277db5-4f4c-4990-b8f6-2273fa0c0578)
+
+Para posteriormente seleccionar la opción de settings:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/8059f5f6-891c-4dd2-9096-846f0ce473e0)
+
+y posteriormente la opción de "Developer Settings":
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/2872c2f0-ef46-4cc3-a696-e0ce75c2c8c4)
+
+y "tokens (classic)"
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/8cba6663-1c6f-4e3c-8a62-19d3d8204490)
+
+en mi caso ya había generado el token pero lo he olvidado, así que se seleciona nuevamente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/1d550200-702a-4c47-bcc8-a9adac63a71c)
+
+y se selecciona la opción de regenerar el token:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/6b82157c-46d6-40cd-aa66-34a1cb3c0726)
+
+presentara una pantalla similar a la siguiente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/858f9046-8ea7-40ff-b829-0a681052b941)
+
+vuelva a introducir el usuario y el token recien generado:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/02228fbc-0410-4002-a3e3-eb6c7f816609)
 
 
+
+
+
+
+
+
+
+
+
+##  Roadmap
