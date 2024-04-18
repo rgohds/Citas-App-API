@@ -329,7 +329,8 @@ Como usuario por el momento entraras de forma local, vía el navegador como chro
 
 ## Contribución
 
-Para realizar contribuciones la forma de trabajo es la siguiente, realizar la creación de un nuevo Branch.
+Para realizar contribuciones la forma de trabajo es la siguiente, realizar la creación de un nuevo Branch nuevo a partir del branch de develop.
+
 Lo puedes realizar desde eclipse, seleccionando desde la raíz del proyecto y la opción de equipo, en la opción de Switch to->New Branch
 
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/00e73c35-ad09-4ffa-96bf-d850996e84d0)
@@ -382,12 +383,29 @@ vuelva a introducir el usuario y el token recien generado:
 
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/02228fbc-0410-4002-a3e3-eb6c7f816609)
 
+y posteriormente una pantalla similar donde seleccionara "Close":
 
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/e4e51c73-bffb-43df-8957-226c29e73bca)
 
+al revisar el repositorio de Github, podremos observar el push que acabamos de realizar y podremos generar el pull request:
 
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/e9e51c47-7ddf-47af-940f-2a89a9125980)
 
+En el, deberemos capturar mayor detalle de las modificaciones realizadas:
 
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/f55d7883-e6c1-4947-9f2c-3146980563d4)
 
+Una vez generado se podrá autorizar dicho pull request, en la siguiente imagen se podrá observar la integración con travis-ci, donde realiza el proceso de integración continua:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/67dcdd3a-003e-440b-8e4c-c573d6d9c7ab)
+
+y una vez concluido se podrán observar las validaciones terminadas:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/e942bd1b-ed35-430b-82c6-36e9118f1b5e)
+
+al concluir, github te dara la opción de borrar el branch :
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/355b1503-7df8-48de-b62a-040317502011)
 
 
 
