@@ -326,6 +326,80 @@ Como usuario por el momento entraras de forma local, vía el navegador como chro
 
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/7551b0d6-3517-42b7-a957-12daa0fb894a)
 
+Por el momento al ser un MVP, se cuenta solamente con un catalogo terminado, el de instructores, lo podrás acceder mediante la opción del menu dentro de la sección de "Admin":
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/d1fd9670-4bd2-46c8-9b9f-4b136d167c0a)
+
+presentando una pantalla similar a la siguiente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/ea2b0719-3d56-469f-a0e9-d435c3094c70)
+
+donde se cuentan con las alternativas básicas de mantenimiento:
+
+**Alta de Instructores**
+
+Seleccione el botón "Nuevo":
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/5e730ab3-3bd0-4bf4-8caa-6c2aaeb8c773)
+
+Introduzca los datos solicitados, donde el nombre corresponde al nombre o en caso de tener un segundo nombre sería en el primer paso indicado, posteriormente introduzca los apellidos del instructor en el segundo paso, para por último presionar el botón de Save:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/467407da-fc6f-43df-8215-3946275c190b)
+
+el sistema presentara un mensaje confirmando la creación del registro, así como podra ser observado en el listado del registro:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/16caa3a1-d991-4ec7-a692-929f5c395574)
+
+**Modificación de un Instructor**
+
+Para modificar los datos de un instructor, tan solo es necesario seleccionar el icono en forma de lapiz del registro que se desea modificar:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/8fbe368d-43f0-43c7-a273-68f8cdcd15df)
+
+el sistema presentara una ventana con los datos actuales del instructor:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/7497ed91-f8bd-49c3-8d81-825307d4e737)
+
+donde usted podrá proceder a ajustar ya sea el nombre o los apellidos, como en el siguiente ejemplo:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/4476bda7-05bd-4e44-b477-4534664bd0c1)
+
+Una vez selecciona la opción para guardar, de igual forma el sistema presentara un mensaje de confirmación y podrá observar el registro actualizado:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/bfdc0bf5-8930-42b5-9e40-4da82284a922)
+
+**Borrar un instructor**
+
+De forma similar para poder borrar un registro de algun instructor, tan solo es necesario presionar el icono de bote de basura del registro que se desea eliminar:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/9ae21096-8644-47f1-a49f-879ad9d89209)
+
+El sistema le solicitara una confirmación antes de eliminarlo:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/56aa1e44-2725-4034-860b-a87ac1b8e488)
+
+presentando una confirmación una vez eliminado y dicho registro desaparecera del listado:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/bba3df09-b83d-4f92-8dd6-c7b720a617e8)
+
+**Exportar a CSV**
+
+Tambien es posible exportar el listado a un formato CSV que es posible abrir en excel, tan solo seleccione la opción "Export"
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/4d2136ba-2540-4232-a0ee-1b2d4248e96c)
+
+
+y una vez exportado visualice los archivos descargados de su navegador:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/31712a64-3116-43b2-89ec-ba0899af484d)
+
+al abrirlo se podrá observar un listado sencillo con los atributos del instructor:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/03725d01-e7d8-42e3-a6df-9aa45beb0d3a)
+
+Tambien es posible visualizar el siguiente video donde se muestra la funcionalidad:
+
+
 
 ## Contribución
 
