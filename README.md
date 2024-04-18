@@ -305,8 +305,6 @@ o similar a este segundo ejemplo donde se consulta el id 1:
 
 
 
-
-
 ## Configuración
 
 Para el caso del API Rest, es necesario ajustar los parametros de conectividad directamente en el application.properties, dentro del roadmap se espera cambiar la ubicación de estos datos:
@@ -323,6 +321,13 @@ Para el caso de la aplicación web, dependiendo de la entidad, por el momento se
 
 
 ## Uso
+
+Como usuario por el momento entraras de forma local, vía el navegador como chrome y observaran una pantalla similar a la siguiente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/7551b0d6-3517-42b7-a957-12daa0fb894a)
+
+
+
 
 ## Contribución
 
