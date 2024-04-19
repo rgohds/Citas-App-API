@@ -486,6 +486,25 @@ al concluir, github te dara la opción de borrar el branch :
 
 Algunas de las oportunidades o funcionalidades que se podrían mejorar hasta ahora:
 
+**Ajustar Textos**
+
+Tomando en consideración que se utilizo un template de primeng, se identificaron al momento de hacer pruebas aun textos en ingles, como al momento de borrar un registro, estos se deberían ajustar:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/e4c5d81e-0510-4b58-8b14-d3a0f46be1f1)
+
+**Exportar Datos**
+
+Se identifico que al momento de utilizar la funcionalidad de exportar incluida en el template de primeng, los registros con acentos no son exportados de forma correcta, ej:
+
+En el listado se pueden observar correctamente:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/e0649494-8a51-4c2a-a842-12f7693ecb3d)
+
+sin embargo al exportalo aparece de forma incorrecta:
+
+![image](https://github.com/rgohds/Citas-App-API/assets/127057257/54b8807d-f268-4619-b9da-707ff6627336)
+
+
 **Borrado y carga de datos masivos**
 
 El template de primeng contempla funcionalidad para realizar el borrado de registros multiples, así como poder importar datos de un archivo:
