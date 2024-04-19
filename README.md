@@ -35,11 +35,11 @@ La solución ha sido dividida en 2, una enfocada en el front end (web) [CitasApp
 
 ## Requerimientos
 
-La solución se dividio en 2 secciones, como se describe en la descripción de la arquitectura.
+La solución se dividió en 2 secciones, como se describe en la descripción de la arquitectura.
 
 Los requerimientos de software para la aplicación web (angular):
 
-- Node.js, que puede ser descargado en https://nodejs.org/en/download/current, para el momento de esta publicación se empleo la versión 21.7.3, en esta versión, este software se requiere para la instalación del NPM (node package management), para poder realizar las intalaciones subsecuentes.
+- Node.js, que puede ser descargado en https://nodejs.org/en/download/current, para el momento de esta publicación se empleo la versión 21.7.3, en esta versión, este software se requiere para la instalación del NPM (node package management), para poder realizar las instalaciones subsecuentes.
 - Angular 
 - PrimeNG [Guía oficial](https://primeng.org/installation)
 - [Visual Studio Code](https://code.visualstudio.com/download)
