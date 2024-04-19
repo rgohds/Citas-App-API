@@ -502,6 +502,10 @@ Esto lo considero un requerimiento funcional que debería ser incluido al revali
 
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/bc403612-0f45-478f-a77d-7af339d6b5fc)
 
+**Dashboard**
+
+Tomando tambien de idea el template de PrimeNG, para los usuarios administradores sería conveniente definir indicadores que se deseen evaluar, por ejemplo alguna grafica de clases en las siguientes 2 semanas y su nivel de ocupación, cantidad de clases compradas y pendientes por asignar, cantidad de clases proximas a vencer y el desglose de las mismas, los indicadores se deberían de diseñar una vez concluida la funcionalidad basica y puesto en producción.
+
 Adicionalmente el MVP o levantamiento inicial contempla los siguientes requerimientos funcionales:
 
 **Alta de Clases**
