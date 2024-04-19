@@ -397,9 +397,6 @@ al abrirlo se podrá observar un listado sencillo con los atributos del instruct
 
 ![image](https://github.com/rgohds/Citas-App-API/assets/127057257/03725d01-e7d8-42e3-a6df-9aa45beb0d3a)
 
-Tambien es posible visualizar el siguiente video donde se muestra la funcionalidad:
-
-
 
 ## Contribución
 
